@@ -9,3 +9,5 @@ vehicle . Every vehical in the world use same type of the fuel sensor and all of
  https://auto.howstuffworks.com/fuel-gauge1.htm
 This repository will consist of only the software front end of the project which uses react.js 
 note : you need to add your own google api key for this to work
+also i am sharing the .js files only
+
